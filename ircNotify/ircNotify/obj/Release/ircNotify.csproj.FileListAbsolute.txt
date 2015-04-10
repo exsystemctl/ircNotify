@@ -1,0 +1,7 @@
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Release\ircNotify.exe.config
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Release\ircNotify.exe
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\bin\Release\ircNotify.pdb
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.Properties.Resources.resources
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.csproj.GenerateResource.Cache
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.exe
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.pdb
