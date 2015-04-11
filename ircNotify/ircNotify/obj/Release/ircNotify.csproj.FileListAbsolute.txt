@@ -5,3 +5,4 @@ C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.Properti
 C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.csproj.GenerateResource.Cache
 C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.exe
 C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.pdb
+C:\Documents\GitHub\ircNotify\ircNotify\ircNotify\obj\Release\ircNotify.csprojResolveAssemblyReference.cache
